@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sandeep Velayudhan
 - 👀 I’m interested in cyber security, ethical hacking and scripting
 - 🌱 I’m currently persuing Msc Cyber forensics and information Security from University of madras
-- 💞️ I’m looking ti learn new things and can you guide me into it?
+- 💞️ I’m looking to learn new things and if you can you guide me into it its always welcomed.
 - 📫 How to reach me ...(sanu19091999@gmail.com)
 
 <!---
